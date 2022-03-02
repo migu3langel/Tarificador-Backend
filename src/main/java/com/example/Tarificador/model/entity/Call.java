@@ -2,7 +2,7 @@ package com.example.Tarificador.model.entity;
 
 import java.io.Serializable;
 import javax.persistence.*;
-import java.sql.Time;
+
 import java.util.Date;
 
 
