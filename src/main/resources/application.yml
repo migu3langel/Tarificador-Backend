@@ -1,0 +1,33 @@
+server:
+    port: 9000
+    servlet:
+      context-path: /ia
+  #miguelangel
+
+#  jpa:
+#    properties:
+#      hibernate:
+#        dialect: org.hibernate.dialect.MySQLDialect
+#        format_sql: true
+#        id:
+#          new_generator_mappings: false
+
+#countries:
+#    - 502
+#    - 503
+#    - 504
+#    - 505
+#    - 506
+#    - 507
+#     
+#servers:
+#    - 10.14.1.44
+#    - 10.17.1.44
+#    - 10.18.1.44
+#    - 10.13.1.44
+#    - 10.19.1.44
+#    - 10.20.1.44
+#
+#ports:
+#    - 29999
+#    - 29997
